@@ -64,6 +64,9 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 | ESP32-P4 · Image decode | [`examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/`](./examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/) |
 | ESP32-P4 · CO5300 MIPI display test | [`examples/display-touch-test/co5300_mipi_dsi/`](./examples/display-touch-test/co5300_mipi_dsi/) |
 | ESP32-P4 · CST9217 touch I2C test | [`examples/display-touch-test/P4-IDF_CST9217-I2C/`](./examples/display-touch-test/P4-IDF_CST9217-I2C/) |
+| Raspberry Pi 5 · CO5300 466×466 panel / DT overlay (display only) | [`examples/rpi5-panel-co5300-466x466/`](./examples/rpi5-panel-co5300-466x466/) |
+| Raspberry Pi 5 · CST9217 touch / DT overlay (touch only) | [`examples/rpi5-touch-cst9217/`](./examples/rpi5-touch-cst9217/) |
+| Raspberry Pi 5 · CO5300 display + CST9217 touch / DT overlay | [`examples/rpi5-panel-co5300-cst9217-466x466/`](./examples/rpi5-panel-co5300-cst9217-466x466/) |
 
 ## Repository layout
 
@@ -104,6 +107,9 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 - [ESP32-P4 image decode](./examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/)
 - [ESP32-P4 display test](./examples/display-touch-test/co5300_mipi_dsi/)
 - [ESP32-P4 CST9217 touch test](./examples/display-touch-test/P4-IDF_CST9217-I2C/)
+- [Raspberry Pi 5 CO5300 panel (display only)](./examples/rpi5-panel-co5300-466x466/)
+- [Raspberry Pi 5 CST9217 touch (touch only)](./examples/rpi5-touch-cst9217/)
+- [Raspberry Pi 5 CO5300 display + CST9217 touch](./examples/rpi5-panel-co5300-cst9217-466x466/)
 
 ## Buy
 

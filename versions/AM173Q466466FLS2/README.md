@@ -64,6 +64,9 @@ OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示�
 | ESP32-P4 · 图片解码 | [`examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/`](./examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/) |
 | ESP32-P4 · CO5300 MIPI 显示测试 | [`examples/display-touch-test/co5300_mipi_dsi/`](./examples/display-touch-test/co5300_mipi_dsi/) |
 | ESP32-P4 · CST9217 触摸 I2C 测试 | [`examples/display-touch-test/P4-IDF_CST9217-I2C/`](./examples/display-touch-test/P4-IDF_CST9217-I2C/) |
+| Raspberry Pi 5 · CO5300 466×466 面板驱动 / DT overlay（仅显示） | [`examples/rpi5-panel-co5300-466x466/`](./examples/rpi5-panel-co5300-466x466/) |
+| Raspberry Pi 5 · CST9217 触摸驱动 / DT overlay（仅触摸） | [`examples/rpi5-touch-cst9217/`](./examples/rpi5-touch-cst9217/) |
+| Raspberry Pi 5 · CO5300 显示 + CST9217 触摸 / DT overlay | [`examples/rpi5-panel-co5300-cst9217-466x466/`](./examples/rpi5-panel-co5300-cst9217-466x466/) |
 
 ## 仓库结构
 
@@ -104,6 +107,9 @@ OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示�
 - [ESP32-P4 图片解码](./examples/image-decoder/p4-idf_co5300-mipi_lvgl-decode-image/)
 - [ESP32-P4 显示测试](./examples/display-touch-test/co5300_mipi_dsi/)
 - [ESP32-P4 CST9217 触摸测试](./examples/display-touch-test/P4-IDF_CST9217-I2C/)
+- [Raspberry Pi 5 CO5300 面板（仅显示）](./examples/rpi5-panel-co5300-466x466/)
+- [Raspberry Pi 5 CST9217 触摸（仅触摸）](./examples/rpi5-touch-cst9217/)
+- [Raspberry Pi 5 CO5300 显示 + CST9217 触摸](./examples/rpi5-panel-co5300-cst9217-466x466/)
 
 ## 购买链接
 
