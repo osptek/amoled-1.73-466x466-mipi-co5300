@@ -67,6 +67,7 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 | Raspberry Pi 5 · CO5300 466×466 panel / DT overlay (display only) | [`examples/rpi5-panel-co5300-466x466/`](./examples/rpi5-panel-co5300-466x466/) |
 | Raspberry Pi 5 · CST9217 touch / DT overlay (touch only) | [`examples/rpi5-touch-cst9217/`](./examples/rpi5-touch-cst9217/) |
 | Raspberry Pi 5 · CO5300 display + CST9217 touch / DT overlay | [`examples/rpi5-panel-co5300-cst9217-466x466/`](./examples/rpi5-panel-co5300-cst9217-466x466/) |
+| Raspberry Pi 5 · CO5300 + CST9217 · LVGL | [`examples/rpi5-lvgl-co5300-cst9217-466x466/`](./examples/rpi5-lvgl-co5300-cst9217-466x466/) |
 
 ## Repository layout
 
@@ -110,6 +111,7 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 - [Raspberry Pi 5 CO5300 panel (display only)](./examples/rpi5-panel-co5300-466x466/)
 - [Raspberry Pi 5 CST9217 touch (touch only)](./examples/rpi5-touch-cst9217/)
 - [Raspberry Pi 5 CO5300 display + CST9217 touch](./examples/rpi5-panel-co5300-cst9217-466x466/)
+- [Raspberry Pi 5 CO5300 + CST9217 · LVGL](./examples/rpi5-lvgl-co5300-cst9217-466x466/)
 
 ## Buy
 

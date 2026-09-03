@@ -67,6 +67,7 @@ OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示�
 | Raspberry Pi 5 · CO5300 466×466 面板驱动 / DT overlay（仅显示） | [`examples/rpi5-panel-co5300-466x466/`](./examples/rpi5-panel-co5300-466x466/) |
 | Raspberry Pi 5 · CST9217 触摸驱动 / DT overlay（仅触摸） | [`examples/rpi5-touch-cst9217/`](./examples/rpi5-touch-cst9217/) |
 | Raspberry Pi 5 · CO5300 显示 + CST9217 触摸 / DT overlay | [`examples/rpi5-panel-co5300-cst9217-466x466/`](./examples/rpi5-panel-co5300-cst9217-466x466/) |
+| Raspberry Pi 5 · CO5300 + CST9217 · LVGL | [`examples/rpi5-lvgl-co5300-cst9217-466x466/`](./examples/rpi5-lvgl-co5300-cst9217-466x466/) |
 
 ## 仓库结构
 
@@ -110,6 +111,7 @@ OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示�
 - [Raspberry Pi 5 CO5300 面板（仅显示）](./examples/rpi5-panel-co5300-466x466/)
 - [Raspberry Pi 5 CST9217 触摸（仅触摸）](./examples/rpi5-touch-cst9217/)
 - [Raspberry Pi 5 CO5300 显示 + CST9217 触摸](./examples/rpi5-panel-co5300-cst9217-466x466/)
+- [Raspberry Pi 5 CO5300 + CST9217 · LVGL](./examples/rpi5-lvgl-co5300-cst9217-466x466/)
 
 ## 购买链接
 
