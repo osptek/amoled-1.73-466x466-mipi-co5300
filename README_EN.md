@@ -17,7 +17,7 @@
 
 - [About](#about)
 - [Versions](#versions)
-- [AM173Q466466FLS2](#am173q466466fls2)
+- [AM173M466466FLS2](#am173m466466fls2)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,17 +37,17 @@ Repo id: `1.73-amoled-466x466-mipi-co5300`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| AM173Q466466FLS2 | <img alt="AM173Q466466FLS2" src="./versions/AM173Q466466FLS2/images/product.png" width="120" /> | [Summary](#am173q466466fls2) | [Full docs](./versions/AM173Q466466FLS2/) |
+| AM173M466466FLS2 | <img alt="AM173M466466FLS2" src="./versions/AM173M466466FLS2/images/product.png" width="120" /> | [Summary](#am173m466466fls2) | [Full docs](./versions/AM173M466466FLS2/) |
 
 ---
 
-## AM173Q466466FLS2
+## AM173M466466FLS2
 
-<p align="center"><img alt="AM173Q466466FLS2" src="./versions/AM173Q466466FLS2/images/product.png" width="320" /></p>
+<p align="center"><img alt="AM173M466466FLS2" src="./versions/AM173M466466FLS2/images/product.png" width="320" /></p>
 
 **Notes:** With touch (CST9217).
 
-Full product page, datasheets, and examples: [versions/AM173Q466466FLS2/](./versions/AM173Q466466FLS2/)
+Full product page, datasheets, and examples: [versions/AM173M466466FLS2/](./versions/AM173M466466FLS2/)
 
 ---
 

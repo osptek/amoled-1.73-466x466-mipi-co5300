@@ -33,7 +33,7 @@ OSPTEK **1.73″ 466×466 AMOLED** is a round **MIPI** color display module driv
 
 Spec ID (repository name): `1.73-amoled-466x466-mipi-co5300`
 
-Current module version: **AM173Q466466FLS2**. Electrical and mechanical details follow [`docs/AM_173_Q466466_FLS_2_39c9366494.pdf`](./docs/AM_173_Q466466_FLS_2_39c9366494.pdf).
+Current module version: **AM173M466466FLS2**. Electrical and mechanical details follow [`docs/AM173M466466FLS2_外形图.pdf`](./docs/AM173M466466FLS2_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf).
 
 ## Specifications
 
@@ -74,7 +74,7 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 ```text
 1.73-amoled-466x466-mipi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
-    └── AM173Q466466FLS2/                                # full materials for this part number
+    └── AM173M466466FLS2/                                # full materials for this part number
         ├── README.md
         ├── README_EN.md
         ├── images/
@@ -88,7 +88,8 @@ Current module version: **AM173Q466466FLS2**. Electrical and mechanical details 
 
 | Resource | Link |
 | ---- | ---- |
-| Product datasheet (AM173Q466466FLS2) | [`docs/AM_173_Q466466_FLS_2_39c9366494.pdf`](./docs/AM_173_Q466466_FLS_2_39c9366494.pdf) |
+| Outline drawing (AM173M466466FLS2) | [`docs/AM173M466466FLS2_外形图.pdf`](./docs/AM173M466466FLS2_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf) |
+| 3D drawing (AM173M466466FLS2) | [`docs/AM173M466466FLS2.dwg`](./docs/AM173M466466FLS2.dwg) |
 | Driver IC datasheet (CO5300) | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | 1.73″ AMOLED adapter schematic | [`docs/1.73寸AMOLED转接板原理图.png`](./docs/1.73%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.png) |
 | 1.73″ AMOLED MIPI adapter board (V2.0) | [`docs/PCB-1.73寸AMOLED屏MIPI转接板V2.0.pdf`](./docs/PCB-1.73%E5%AF%B8AMOLED%E5%B1%8FMIPI%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |

@@ -17,7 +17,7 @@
 
 - [说明](#说明)
 - [版本一览](#版本一览)
-- [AM173Q466466FLS2](#am173q466466fls2)
+- [AM173M466466FLS2](#am173m466466fls2)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,17 +37,17 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| AM173Q466466FLS2 | <img alt="AM173Q466466FLS2" src="./versions/AM173Q466466FLS2/images/product.png" width="120" /> | [简介](#am173q466466fls2) | [完整资料](./versions/AM173Q466466FLS2/) |
+| AM173M466466FLS2 | <img alt="AM173M466466FLS2" src="./versions/AM173M466466FLS2/images/product.png" width="120" /> | [简介](#am173m466466fls2) | [完整资料](./versions/AM173M466466FLS2/) |
 
 ---
 
-## AM173Q466466FLS2
+## AM173M466466FLS2
 
-<p align="center"><img alt="AM173Q466466FLS2" src="./versions/AM173Q466466FLS2/images/product.png" width="320" /></p>
+<p align="center"><img alt="AM173M466466FLS2" src="./versions/AM173M466466FLS2/images/product.png" width="320" /></p>
 
 **说明：** 带触摸（CST9217）。
 
-完整产品页、规格书与示例：[versions/AM173Q466466FLS2/](./versions/AM173Q466466FLS2/)
+完整产品页、规格书与示例：[versions/AM173M466466FLS2/](./versions/AM173M466466FLS2/)
 
 ---
 
