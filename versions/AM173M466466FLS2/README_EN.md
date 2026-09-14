@@ -31,7 +31,7 @@
 
 OSPTEK **1.73″ 466×466 AMOLED** is a round **MIPI** color display module driven by **CO5300**, with capacitive touch (**CST9217**). Suited to wearables, round gauges, and compact circular HMI.
 
-Spec ID (repository name): `1.73-amoled-466x466-mipi-co5300`
+Spec ID (repository name): `amoled-1.73-466x466-mipi-co5300`
 
 Current module version: **AM173M466466FLS2**. Electrical and mechanical details follow [`docs/AM173M466466FLS2_外形图.pdf`](./docs/AM173M466466FLS2_%E5%A4%96%E5%BD%A2%E5%9B%BE.pdf).
 
@@ -72,7 +72,7 @@ Current module version: **AM173M466466FLS2**. Electrical and mechanical details 
 ## Repository layout
 
 ```text
-1.73-amoled-466x466-mipi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-1.73-466x466-mipi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM173M466466FLS2/                                # full materials for this part number
         ├── README.md

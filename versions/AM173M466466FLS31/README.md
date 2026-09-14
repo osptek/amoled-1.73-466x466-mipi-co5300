@@ -28,7 +28,7 @@
 
 OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示模组，显示驱动为 **CO5300**，触摸驱动为 **CST9217**。适合穿戴表盘、圆形仪表与小型圆形 HMI 等场景。
 
-规格标识（仓库名）：`1.73-amoled-466x466-mipi-co5300`
+规格标识（仓库名）：`amoled-1.73-466x466-mipi-co5300`
 
 当前模组版本：**AM173M466466FLS31**。电气与外形细节以 [`docs/AM173M466466FLS31.pdf`](./docs/AM173M466466FLS31.pdf) 为准。
 
@@ -48,7 +48,7 @@ OSPTEK **1.73 寸 466×466 AMOLED** 是一款 **MIPI** 接口圆形彩色显示�
 ## 仓库结构
 
 ```text
-1.73-amoled-466x466-mipi-co5300/                                # 仓库根（导航见 ../../README.md）
+amoled-1.73-466x466-mipi-co5300/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM173M466466FLS31/                                      # 本料号完整资料
         ├── README.md

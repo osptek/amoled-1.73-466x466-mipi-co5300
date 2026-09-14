@@ -30,7 +30,7 @@ This repository holds materials for the **1.73″ 466×466 AMOLED (MIPI · CO530
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `1.73-amoled-466x466-mipi-co5300`
+Repo id: `amoled-1.73-466x466-mipi-co5300`
 
 ---
 
