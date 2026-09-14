@@ -93,6 +93,7 @@ amoled-1.73-466x466-mipi-co5300/                                # 仓库根（�
 | 驱动 IC 数据手册（CO5300） | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | 1.73 寸 AMOLED 转接板原理图 | [`docs/1.73寸AMOLED转接板原理图.png`](./docs/1.73%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.png) |
 | 1.73 寸 AMOLED MIPI 转接板（V2.0） | [`docs/PCB-1.73寸AMOLED屏MIPI转接板V2.0.pdf`](./docs/PCB-1.73%E5%AF%B8AMOLED%E5%B1%8FMIPI%E8%BD%AC%E6%8E%A5%E6%9D%BFV2.0.pdf) |
+| 转接板 3D 模型（STEP） | [`docs/1.73寸AMOLED转接板.step`](./docs/1.73%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.step) |
 | 连接器规格书（OK-14F024-04） | [`docs/OK-14F024-04.pdf`](./docs/OK-14F024-04.pdf) |
 
 ### 示例工程
