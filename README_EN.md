@@ -17,7 +17,6 @@
 
 - [About](#about)
 - [Versions](#versions)
-- [AM173M466466FLS31](#am173m466466fls31)
 - [AM173M466466FLS2](#am173m466466fls2)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
@@ -38,16 +37,7 @@ Repo id: `amoled-1.73-466x466-mipi-co5300`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| AM173M466466FLS31 |  | [Summary](#am173m466466fls31) | [Full docs](./versions/AM173M466466FLS31/) |
 | AM173M466466FLS2 | <img alt="AM173M466466FLS2" src="./versions/AM173M466466FLS2/images/product.png" width="120" /> | [Summary](#am173m466466fls2) | [Full docs](./versions/AM173M466466FLS2/) |
-
----
-
-## AM173M466466FLS31
-
-**Notes:** With touch (CST9217), 31-pin FPC.
-
-Full product page, datasheets, and examples: [versions/AM173M466466FLS31/](./versions/AM173M466466FLS31/)
 
 ---
 

@@ -1,0 +1,15 @@
+id: amoled-1.73-466x466-mipi-co5300
+category: displays
+
+size: "1.73"
+panel: amoled
+resolution: 466x466
+interface: [mipi]
+shape: round
+
+versions:
+  - id: AM173M466466FLS2
+    kind: module
+    driver: CO5300
+    touch: CST9217
+    note: 24-pin FPC
